@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">CorpoAgro HJC</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="Hello">WELCOME</string>
+    <string name="contacts">Telefono: 8691545</string>
+    <string name="facebook">https://www.facebook.com/hogar.juvenil.ines.de.toro/</string>
+    <string name="blog">https://corporacionagroecologicahjc.wordpress.com/</string>
+    <string name="email">hojucamp@yahoo.es</string>
+    <string name="movil">Telefono Movil: 3128953442</string>
+    <string name="director">DIRECTOR</string>
+    <string name="Director">Wilson Naranjo Valencia</string>
+    <string name="Atencion">Horarios de Atencion:  </string>
+    <string name="Aten">Lunes a Sabado de 8:00 AM a 6:00 PM</string>
+    <string name="direccion">DIRECCION</string>
+    <string name="Direccion"> Avenida Los Industriales Km2 Barrio Buenos Aires</string>
+    <string name="Flia">Fiesta de la familia: Ultima semana de noviembre</string>
+    <string name="Mitos">Mitos y Leyendas: 31 de Octubre</string>
+
+    <string name="Historia">
+       El Hogar Juvenil Campesino "Inés de Toro", fue fundado en el año  1969  por monseñor Luis Gómez Gómez, iniciando las actividades  de  Servicio Social  diecisiete jóvenes. Los predios  donde se construyó la obra   fueron donados   por doña  Inés  Jaramillo  de Toro esposa del  gran visionario y  empresario don Enrique Toro Calle.
+    </string>
+    <string name="Histo">
+        En el año 2004 la entidad hace la primera reforma estatutaria ampliándose la visión y la misión con una proyección ambiental   y manteniendo la esencia de su fundación en la labor social de atender jóvenes rurales con el servicio de alojamiento y alimentación, en este año se le complementa el nombre al de Corporación Agroecológica Hogar Juvenil Campesino Inés de Toro. Durante 47 años de existencia la entidad ha tenido tres cierres administrativos por carencia de recursos económicos para su funcionamiento.
+    </string>
+    <string name="uno">
+        •	Servicio de  alimentación y alojamiento para jóvenes de bachillerato
+    </string>
+    <string name="dos">
+        •	Servicio de alimentación y alojamiento  para jóvenes  universitarios.
+    </string>
+    <string name="tres">
+        • Servicio de prácticas y pasantías en convenio  con las universidades.
+    </string>
+    <string name="cuatro">
+        •	Espacio para que los  jóvenes de bachillerato presten el servicio social del estudiante.
+    </string>
+     <string name="cinco">
+•	Convenio con entidades publicas y privadas
+    </string>
+     <string name="seis">
+•	 propagación de plantas y material vegetal.
+    </string>
+     <string name="siete">
+•	Trueque de semillas orgánicas
+    </string>
+    <string name="ocho">
+        •	Servicio de alimentación y alojamiento temporadas de puentes y vacacionales.
+    </string>
+    <string name="nueve">
+        •	Ofrecimiento de las instalaciones para actividades en el área ambiental.
+    </string>
+    <string name="diez">
+        •	Servicio de hotelería eco turística.
+    </string>
+    <string name="once">
+        •	Recorridos guiados por el sendero Agroecológico  en  la granja.
+    </string>
+    <string name="doce">
+•	Museo granja del maíz “conservando y rescatando la semillas nativas”.
+    </string>
+    <string name="facebook_app_id">1609317766041244</string>
+    <string name="loading">Loading</string>
+    <string name="action_logout"> Log Out</string>
+    <string name="Razon">Escriba el motivo de su cita</string>
+</resources>
